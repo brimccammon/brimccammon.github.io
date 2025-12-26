@@ -3,6 +3,12 @@ description: PowerShell, Azure, and other things I break
 url: https://brimccammon.github.io
 
 theme: jekyll-theme-minimal
+author:
+  name: Brian McCammon
+
+logo: /header.png
+theme_color: blue
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
