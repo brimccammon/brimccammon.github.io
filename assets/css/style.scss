@@ -11,6 +11,12 @@
   margin: 0 auto; /* Ensures the content remains centered */
 }
 
+.wrapper section {
+  max-width: 90%; /* This should now correctly apply the new width */
+  margin: 0 auto; /* Keeps the content centered on the page */
+  padding: 2rem 1rem; /* Adjusts the internal spacing (optional) */
+}
+
 header {
   background-image: url('/assets/images/header.jpg'); /* Replace with the correct path to your image */
   background-size: auto; /* Optional: ensures the image covers the entire header area */
