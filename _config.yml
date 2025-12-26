@@ -5,7 +5,6 @@ theme: jekyll-theme-dinky
 author:
   name: Brian McCammon
 
-header_image: /assets/images/header.jpg
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
