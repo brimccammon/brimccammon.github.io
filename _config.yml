@@ -5,8 +5,7 @@ theme: jekyll-theme-modernist
 author:
   name: Brian McCammon
 
-header_image: /assets/images/banner.jpg
-
+header_image: /header.jpg
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
