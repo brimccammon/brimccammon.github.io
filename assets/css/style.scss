@@ -2,6 +2,17 @@
 ---
 @import "{{ site.theme }}";
 
+/* Add your custom CSS below this line */
+
+header {
+  background-image: url('/assets/images/header.jpg'); /* Replace with the correct path to your image */
+  background-size: cover; /* Optional: ensures the image covers the entire header area */
+  background-repeat: no-repeat; /* Optional: prevents image tiling */
+  background-position: center; /* Optional: centers the image within the header */
+  /* You may also need to adjust the height if the image is cropped awkwardly */
+  height: 200px; /* Adjust height as needed */
+}
+
 body {
-  background-color: #f66904; /* New background color */
+  /*background-color: #f66904;  New background color */
 }
