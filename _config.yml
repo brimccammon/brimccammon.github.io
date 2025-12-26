@@ -6,6 +6,7 @@ author:
   name: Brian McCammon
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+include_cached: false
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
