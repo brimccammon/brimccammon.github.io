@@ -7,7 +7,7 @@ author:
   name: Brian McCammon
 
 logo: /header.jpg
-theme_color: blue
+theme_color: black
 
 plugins:
   - jekyll-feed
