@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: single
 title: "My First Post"
+categories: blog
+tags: [intro]
 ---
 
 Hello world.
