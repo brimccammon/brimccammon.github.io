@@ -5,7 +5,7 @@ theme: minima
 author: Brian McCammon
 
 minima:
-  skin: auto
+  skin: dark
 
 plugins:
   - jekyll-feed
