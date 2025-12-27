@@ -4,9 +4,6 @@ description: PowerShell, Azure, and other things I break
 theme: minima
 author: Brian McCammon
 
-minima:
-  skin: dark
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
