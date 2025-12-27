@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: <h3><b>Posts</b></h3>
+list_title: <h3><b><u>Posts</u></b></h3>
 ---
 
 Welcome to my blog.
